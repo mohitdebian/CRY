@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "core",
+    "editor",
+    "plugin-host"
+]
+resolver = "2"
